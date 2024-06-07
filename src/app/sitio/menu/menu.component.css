@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+.container-fluid {
+  border-radius: 6px;
+  padding: 6px;
+  background-color: #000000;
+  height: 56px;
+}
+
+a,
+a:hover {
+  color: #ff0000;
+}
