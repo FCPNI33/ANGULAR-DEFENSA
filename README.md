@@ -1,2 +1,6 @@
 # ANGULAR-DEFENSA
-Defensa de Angular
+Defensa de Angular 2024
+
+Nombre: ADRIAN TUDELA LIMACHI
+CI: 14069375
+RU: 1855993
